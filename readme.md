@@ -1,0 +1,1 @@
+test for exercise-6
